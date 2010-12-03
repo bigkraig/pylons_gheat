@@ -1,0 +1,9 @@
+*.pyc
+data/
+*.egg-info/
+.cache/
+empties/*
+tiles/*
+*.egg
+build
+env
